@@ -1,2 +1,5 @@
 # go-my-project
-My golang study notes
+## 简介
+这是一个goland学习项目
+## 目录
+## 功能
